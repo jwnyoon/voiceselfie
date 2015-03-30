@@ -1,4 +1,7 @@
-<b>VOICE VISUALIZATION PLATFORM VIA MOBILE PHONE</b>
+<h1>Voice Selfie</h1>
+
+
+<h3>Voice visualization platform for mobile phone</h3>
 
 CALL 253.397.2170 AND TELL ME WHO YOU ARE
 

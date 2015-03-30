@@ -1,5 +1,5 @@
-VOICE VISUALIZATION PLATFORM VIA MOBILE PHONE
-CALL 253.397.2170 AND TELL ME WHO YOU ARE
+Voice Visualization Platform via Mobile Phone
+Call 253.397.2170 and tell me who you are
 
 This project is the final project of Redial : interactive telephony at ITP, NYU 2014.
 A voice contains different information from text itself. We can guess the feeling, status, mood from voice. As we have different faces, we all have different voices. 
